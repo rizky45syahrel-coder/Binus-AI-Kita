@@ -1,0 +1,46 @@
+[
+  {
+    "product_id": "ID001",
+    "marketplace": "Tokopedia",
+    "store_name": "TechZone Jakarta",
+    "product_name": "Logitech G Pro X Superlight White",
+    "base_price": 1850000,
+    "shipping_fee": 15000,
+    "discount": 50000,
+    "rating": 4.9,
+    "location": "Jakarta Barat"
+  },
+  {
+    "product_id": "ID002",
+    "marketplace": "Shopee",
+    "store_name": "GamerGear Official",
+    "product_name": "Mouse Logitech G Pro X Superlight Putih Baru",
+    "base_price": 1790000,
+    "shipping_fee": 45000,
+    "discount": 0,
+    "rating": 4.7,
+    "location": "Surabaya"
+  },
+  {
+    "product_id": "ID003",
+    "marketplace": "Lazada",
+    "store_name": "Peripheral_ID",
+    "product_name": "Logitech G Pro Superlight - White",
+    "base_price": 1820000,
+    "shipping_fee": 20000,
+    "discount": 100000,
+    "rating": 4.5,
+    "location": "Tangerang"
+  },
+  {
+    "product_id": "ID004",
+    "marketplace": "Tokopedia",
+    "store_name": "Toko Murah Banget",
+    "product_name": "Logitech G Pro X Superlight (Original)",
+    "base_price": 1500000,
+    "shipping_fee": 10000,
+    "discount": 0,
+    "rating": 3.8,
+    "location": "Jakarta Pusat"
+  }
+]
